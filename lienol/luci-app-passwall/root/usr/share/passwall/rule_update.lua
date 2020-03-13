@@ -40,7 +40,7 @@ local function wget(url, file)
 end
 
 local rule_path = "/usr/share/" .. name .. "/rules"
-local url_main = "https://raw.githubusercontent.com/hq450/fancyss/master/rules"
+local url_main = "https://raw.githubusercontent.com/Tony855/fancyss/master/rules"
 local reboot = 0
 local gfwlist_update = 0
 local chnroute_update = 0
